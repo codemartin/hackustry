@@ -1,9 +1,9 @@
 {
     name: "hackustry",
-    displayName: "Hackustry",
+    displayName: "Hackustry v7",
     author: "QmelZ",
     description: "Hackustry v4",
     version: 4,
-    minGameVersion: 126,
+    minGameVersion: 22566,
     hidden: true
 }
